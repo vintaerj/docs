@@ -2,11 +2,11 @@
   {
     "version": "last",
     "url": "/maze/maze-docs/",
-    "isCurrent": false
+    "isCurrent": true
   },
   {
     "version": "1.0.0",
     "url": "/maze/maze-docs/1.0.0/",
-    "isCurrent": true
+    "isCurrent": false
   }
 ]
