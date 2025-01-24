@@ -1,12 +1,12 @@
 [
   {
     "version": "1.0.0",
-    "url": "/docs/1.0.0/",
+    "url": "/maze/maze-docs/1.0.0/",
     "isCurrent": false
   },
   {
     "version": "1.0.1",
-    "url": "/docs/1.0.1/",
+    "url": "/maze/maze-docs/1.0.1/",
     "isCurrent": true
   }
 ]
